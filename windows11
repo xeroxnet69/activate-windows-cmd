@@ -1,4 +1,6 @@
-1) Use the command “slmgr /ipk kmsclientkey” to install a license key (kmsclientkey is the activation key that corresponds to your Windows edition).
+1) Use the command “slmgr /ipk kmsclientkey” to install a license key
+
+(kmsclientkey is the activation key that corresponds to your Windows edition).
 
 The following is the list of Windows 11 Volume license keys.
 
@@ -21,3 +23,7 @@ Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
 
 Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+2) Set KMS server.
+Use the command “slmgr /skms kms8.msguides.com” to connect to my KMS server.
+3) The last step is to activate your Windows using 
+the command “slmgr /ato”.
